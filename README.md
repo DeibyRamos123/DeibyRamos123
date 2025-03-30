@@ -30,15 +30,15 @@ Soy un desarrollador apasionado con experiencia en el desarrollo web y backend. 
 ---
 
 ### 📌 Proyectos destacados
-- 🔹 **[Falaxart 1](#)** - Una red social creada para usuarios que quieran compartir su arte
-- 🔹 **[News Management 2](#)** - Sistema de gestion de novedades de la FPI para el SENA
-- 🔹 **[Easybot 3](#)** - Sistema creador de bots de discord para la comunidad
+- 🔹 **[Falaxart 1](https://github.com/DeibyRamos123/Falaxart)** - Una red social creada para usuarios que quieran compartir su arte
+- 🔹 **[News Management 2](https://github.com/DeibyRamos123/News_management)** - Sistema de gestion de novedades de la FPI para el SENA
+- 🔹 **[Easybot 3](https://github.com/DeibyRamos123/EasyBot)** - Sistema creador de bots de discord para la comunidad
 
 ---
 
 ### 📫 Contacto
 📩 **Email:** [ramosdeiby2020turbay@gmail.com](mailto:ramosdeiby2020turbay@gmail.com)
-📌 **LinkedIn:** [linkedin.com/in/deiby-ramos-0442a134b/](#)
+📌 **LinkedIn:** [linkedin.com/in/deiby-ramos-0442a134b/](linkedin.com/in/deiby-ramos-0442a134b/)
 💻 **Portfolio:** [tuportafolio.com](#)
 
 ---
