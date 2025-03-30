@@ -1,4 +1,51 @@
-## Hi there 👋
+### 👋 Hola, soy [Julian]!
+
+![GitHub Banner](https://source.unsplash.com/1200x300/?technology,code)
+
+Soy un desarrollador apasionado con experiencia en el desarrollo web y backend. Me encanta crear aplicaciones eficientes, escalables y bien estructuradas. 🚀
+
+---
+
+### 💡 Sobre mí
+- 💻 **Stack:** PHP, JavaScript, React, HTML, CSS, Python, Django, DRF
+- 🛢 **Bases de datos:** MySQL, PostgreSQL
+- 🎯 **Intereses:** Desarrollo backend, APIs, arquitectura de software, optimización de bases de datos, Desarrollo frontend
+- 📚 **Siempre aprendiendo:** Me encanta mejorar mis habilidades y aprender nuevas tecnologías
+- 🌎 **Idiomas:** Español (nativo), Inglés (intermedio/avanzado)
+
+---
+
+### ⚡ Tecnologías y herramientas
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+---
+
+### 📌 Proyectos destacados
+- 🔹 **[Falaxart 1](#)** - Una red social creada para usuarios que quieran compartir su arte
+- 🔹 **[News Management 2](#)** - Sistema de gestion de novedades de la FPI para el SENA
+- 🔹 **[Easybot 3](#)** - Sistema creador de bots de discord para la comunidad
+
+---
+
+### 📫 Contacto
+📩 **Email:** [ramosdeiby2020turbay@gmail.com](mailto:ramosdeiby2020turbay@gmail.com)
+📌 **LinkedIn:** [linkedin.com/in/deiby-ramos-0442a134b/](#)
+💻 **Portfolio:** [tuportafolio.com](#)
+
+---
+
+⭐ **Si te gusta mi trabajo, no dudes en seguirme y darme una estrella en mis proyectos!** ⭐
+
+
 
 <!--
 **DeibyRamos123/DeibyRamos123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
