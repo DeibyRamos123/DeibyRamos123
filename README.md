@@ -1,6 +1,6 @@
 ### 👋 Hola, soy [Julian]!
 
-![GitHub Banner](https://source.unsplash.com/1200x300/?technology,code)
+[![GitHub Banner](https://source.unsplash.com/1200x300/?technology,code,dark)](https://github.com/DeibyRamos123)
 
 Soy un desarrollador apasionado con experiencia en el desarrollo web y backend. Me encanta crear aplicaciones eficientes, escalables y bien estructuradas. 🚀
 
